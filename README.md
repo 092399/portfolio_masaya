@@ -20,7 +20,7 @@ I'm eager to share my journey with you and keen to hear your thoughts! Feel free
 
 📧 Connect with me via email or find me on LinkedIn. Let's embark on this journey together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/inoue-masaya/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/inoue-masaya/])
 [![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:masaya.mishima.23@gmail.com)
 
 
