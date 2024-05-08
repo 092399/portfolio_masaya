@@ -1,6 +1,5 @@
 # Author : Masaya Inoue
 # Publish Date : 02/17/2024
-# This is for getting some initial insights for business challenge II with Team 3 but not for Alessio
 
 # Working Directory 
 setwd("~/Desktop/HULT MBANDD/Spring_Term/Business Challenge II")
